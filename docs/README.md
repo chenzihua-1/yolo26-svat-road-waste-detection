@@ -93,3 +93,5 @@ This project is licensed under the MIT License - see the file for full details.
 Copyright
 © 2026 Zihua Chen . All rights reserved.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19464007.svg)](https://doi.org/10.5281/zenodo.19464007)
+
